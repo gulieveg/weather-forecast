@@ -1,0 +1,7 @@
+# Ignore environment variables file
+# .env file contains sensitive information like API keys, database credentials, etc.
+.env
+
+# Ignore Python bytecode files
+# These files are automatically generated and not needed in the repository
+__pycache__/
